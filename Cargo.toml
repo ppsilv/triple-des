@@ -1,0 +1,9 @@
+[package]
+name = "triple-des"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0.22.1"
+log = "0.4.0-rc.1"
+libc = "0.2.158"
